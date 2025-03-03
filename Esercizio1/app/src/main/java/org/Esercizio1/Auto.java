@@ -1,4 +1,4 @@
-package org.example;
+package org.Esercizio1;
 
 public class Auto extends MezzoDiTrasporto {
     
